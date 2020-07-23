@@ -1,0 +1,10 @@
+# lyrics-search
+🎶 Um boilerplate HTML + CSS para desenvolvermos, com JavaScript puro, uma aplicação que pesquisa letras de músicas 🎼
+
+![exemplo da aplicação](./exemplo-app.png)
+
+## Tecnologia utilizadas
+
+- HTML
+- JAVASCRIPT
+- CSS
